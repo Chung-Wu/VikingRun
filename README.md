@@ -2,9 +2,9 @@
 
 =====Environment===========\
 Windows 10\
-Unity 2020.3.21f1\
+Unity 2020.3.21f1
 
-=====How to Play===========\
+=====How to Play===========
 
 Press W to move forward\
 Press A to turn left\
