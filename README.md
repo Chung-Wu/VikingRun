@@ -1,15 +1,15 @@
 # VikingRun
 
-=====Environment===========
-Windows 10
-Unity 2020.3.21f1
+=====Environment===========\
+Windows 10\
+Unity 2020.3.21f1\
 
-=====How to Play===========
+=====How to Play===========\
 
-Press W to move forward
-Press A to turn left
-Press D to turn right
-Press ESC to goto the Menu
+Press W to move forward\
+Press A to turn left\
+Press D to turn right\
+Press ESC to goto the Menu\
 
 ===========================
 
